@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/Gugurko/gugurko/master/gh-header-image-cropped.png">
+
 saya<h1 align="center">SiFz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 
 <p align="center">
