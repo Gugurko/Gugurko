@@ -167,4 +167,5 @@ saya<h1 align="center">SiFz <img src="https://user-images.githubusercontent.com/
 <br />
 
 ---
-github-readme-starts-test.vercel.app
+For Statistics:
+https://github-readme-stats.vercel.app/api?username=Gugurko&count_private=true&show_icons=true&theme=radical
