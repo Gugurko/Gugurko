@@ -167,5 +167,9 @@ saya<h1 align="center">SiFz <img src="https://user-images.githubusercontent.com/
 <br />
 
 ---
-For Statistics:
-https://github-readme-stats.vercel.app/api?username=Gugurko&count_private=true&show_icons=true&theme=radical
+GitHub Stats URL:-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gugurko&theme=radical)
+For Top Languages:
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gugurko&show_icons=true&theme=radical)
+For Adding Icons to profile:
+![GitHub Stats](https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff)
