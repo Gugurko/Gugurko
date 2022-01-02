@@ -190,7 +190,7 @@ For Adding Icons to profile:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sifz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifz" height="30" width="40" /></a>
+<a href="https://twitter.com/@sifz125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sifz" height="30" width="40" /></a>
 <a href="https://instagram.com/xgame.sanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xgame.sanz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mau gaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mau gaming" height="30" width="40" /></a>
 </p>
