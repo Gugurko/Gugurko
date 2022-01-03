@@ -184,7 +184,7 @@ For Adding Icons to profile:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gugurko&label=Profile%20views&color=0e75b6&style=flat" alt="gugurko" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gugurko" alt="gugurko" /></a> </p>
+<p align="left"> <a href="https://github.com/gugurko/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gugurko" alt="gugurko" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sifz" target="blank"><img src="https://img.shields.io/twitter/follow/sifz?logo=twitter&style=for-the-badge" alt="sifz" /></a> </p>
 
